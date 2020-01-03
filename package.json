@@ -1,0 +1,15 @@
+{
+  "name": "eleventy-liquid-blog-starter",
+  "version": "0.1.0",
+  "description": "Minimal starter blog using html templates",
+  "main": "index.js",
+  "author": "Kyle Hall",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
